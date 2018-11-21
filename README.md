@@ -1,2 +1,2 @@
 # KutuphaneOtomasyonu
-Yazılım Mühendisliği dersi için Asp.Net MVC 5 ile yapılan kütüphane otomasyonu projesi.
+Yazılım Mühendisliği dersi için hazırladığım Asp.Net MVC kütüphane otomasyonu projesi.
